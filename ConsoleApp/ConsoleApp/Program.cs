@@ -5,6 +5,8 @@
         public static void Main()
         {
                 PrintHello();
+                GreetWhite();
+                GreetBlack();
                 Console.ReadLine();
         }
         
